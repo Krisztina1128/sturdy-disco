@@ -1,2 +1,1 @@
-# sturdy-disco
 testrepo learning
